@@ -205,8 +205,8 @@ section.education {
     background-color: var(--darkBlue);
 }
 section.education img{
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
     background-color: var(--pure);
 }
 section.education .right{
