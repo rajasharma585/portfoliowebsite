@@ -98,7 +98,7 @@ header nav .branding{
     padding: 7rem 0;
 }
 .hero .left img{
-    width: 400px;
+    width: 450px;
 }
 
 .hero .right{
@@ -143,7 +143,7 @@ section{
 }
 
 section.about .about-me-img{
-    height:450px ;
+    height:600px ;
 }
 
 section.about h1{
@@ -205,8 +205,8 @@ section.education {
     background-color: var(--darkBlue);
 }
 section.education img{
-    padding-top: 8rem;
-    padding-bottom: 8rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
     background-color: var(--pure);
 }
 section.education .right{
